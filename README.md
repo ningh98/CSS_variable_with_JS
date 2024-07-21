@@ -21,7 +21,7 @@ The provided code demonstrates how to dynamically update CSS variables using Jav
 
 ### Screenshot
 
-![](./cityviewNY.jpg)
+![](./screenshot.png)
 
 ### Links
 
